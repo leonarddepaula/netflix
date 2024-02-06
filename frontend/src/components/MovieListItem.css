@@ -1,7 +1,7 @@
 .MovieListItem {
   align-items: center;
   background: #fff;
-  border-left: 5px solid #1897f9;
+  border-left: 5px solid #ff97f9;
   border-radius: 2px;
   display: flex;
   justify-content: space-between;
@@ -22,6 +22,7 @@
 
 .MovieListItem__Delete img {
   width: 100%;
+  color: #ff0000;
 }
 
 .MovieListItem__Delete:hover {
